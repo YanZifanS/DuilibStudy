@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window size="600,400" caption="0,0,0,30">
+    <VerticalLayout bordersize="1" bkimage="file=&apos;winbg.png&apos;" bkcolor="#FF87CEFE" inset="4,0,4,4">
+        <HorizontalLayout height="32" inset="2,2,0,0">
+            <Label text="ListExDemo" width="80" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" />
+            <Control />
+            <Button name="minbtn" tooltip="最小化" width="28" maxheight="19" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="file=&apos;btn_mini_normal.png&apos; mask=&apos;0xffff00ff&apos;" hotimage="file=&apos;btn_mini_highlight.png&apos; mask=&apos;0xffff00ff&apos;" pushedimage="file=&apos;btn_mini_down.png&apos; mask=&apos;0xffff00ff&apos;" />
+            <Button name="closebtn" tooltip="关闭" width="39" height="19" maxheight="19" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="btn_close_normal.png" hotimage="file=&apos;btn_close_highlight.png&apos; mask=&apos;0xffff00ff&apos;" pushedimage="file=&apos;btn_close_down.png&apos; mask=&apos;0xffff00ff&apos;" />
+        </HorizontalLayout>
+        <HorizontalLayout width="592" height="30" />
+        <HorizontalLayout inset="1,1,1,1" bkimage="list_bg.png">
+           	
+			<List name="listex" bkcolor="#FFFFFFFF" inset="0,0,0,0" itemshowhtml="true" vscrollbar="true" hscrollbar="true" headerbkimage="file='list_header_bg.png'" itemhotimage="file='tree_hot.bmp' corner='2,1,2,1'" itemselectedimage="file='tree_select.bmp' corner='2,1,2,1'" itemalign="center" itembkcolor="#FFE2DDDF" itemaltbk="true" hscrollbar="false" menu="true">
+			<ListHeader height="24" menu="true">
+				<ListHeaderItem text="" inset="1,0,1,0" minwidth="60" endellipsis="true" font="1" width="95"  normalimage="headerctrl_normal.bmp" hotimage="headerctrl_hot.bmp" pushedimage="headerctrl_down.bmp" sepimage="Headerctrl_Sperator.bmp" sepwidth="2">
+				<VerticalLayout inset="1,0,5,0">
+				<CheckBox name="selall" endellipsis="true"  text="全选" textcolor="#FF386382" hottextcolor="#FF386382" selectedtextcolor="#FF386382" disabledtextcolor="#FFbac0c5" textpadding="20,3,0,0" align="left" selectedimage="file='checkbox_p.png' dest='0,2,15,17'" normalimage="file='checkbox_h.png' dest='0,2,15,17'"  />
+				</VerticalLayout>
+				</ListHeaderItem>
+				<ListHeaderItem text="域名" minwidth="100" endellipsis="true" font="1" width="200"  normalimage="headerctrl_normal.bmp" hotimage="headerctrl_hot.bmp" pushedimage="headerctrl_down.bmp" sepimage="Headerctrl_Sperator.bmp" sepwidth="2"/>
+				<ListHeaderItem text="描述" minwidth="120" endellipsis="true" font="1" width="150"  normalimage="headerctrl_normal.bmp" hotimage="headerctrl_hot.bmp" pushedimage="headerctrl_down.bmp" sepimage="Headerctrl_Sperator.bmp" sepwidth="2"/>
+			</ListHeader>
+		</List>		
+        </HorizontalLayout>
+		<Button text="添加" width="50" height="23" pushedimage="button_down.bmp" hotimage="button_over.bmp" normalimage="button_nor.bmp" name="additem" ></Button>
+		<Button text="动态添加" width="50" height="23" pushedimage="button_down.bmp" hotimage="button_over.bmp" normalimage="button_nor.bmp" name="additembycode" ></Button>
+		<Button text="添加列" width="50" height="23" pushedimage="button_down.bmp" hotimage="button_over.bmp" normalimage="button_nor.bmp" name="addcolumn" ></Button>
+    </VerticalLayout>
+</Window>
