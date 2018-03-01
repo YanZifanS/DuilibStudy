@@ -1,0 +1,112 @@
+8
+
+dir
+358
+http://duilib.googlecode.com/svn/trunk/DuiLib
+http://duilib.googlecode.com/svn
+
+
+
+2012-11-08T14:28:30.626566Z
+358
+daviyang35@gmail.com
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0faa2dcf-3321-c2f5-ee64-8fe4bd34913b
+
+StdAfx.h
+file
+
+
+
+
+2012-11-09T15:23:56.280152Z
+ac546330c22a255409bc6015ca6951e4
+2012-07-16T02:26:37.198909Z
+308
+daviyang35@gmail.com
+
+Utils
+dir
+
+Control
+dir
+
+UIlib.cpp
+file
+
+
+
+
+2012-11-09T15:23:56.295752Z
+c0aa97255cc81421ab78b79d694f75de
+2011-08-04T08:38:39.219794Z
+182
+wangchyz@gmail.com
+
+Core
+dir
+
+DuiLib.vcproj
+file
+
+
+
+
+2012-11-09T15:23:56.311352Z
+c5f897789304c0a4239ea2b98717301e
+2012-10-28T14:54:05.150397Z
+353
+ljh_0110@163.com
+
+UIlib.h
+file
+
+
+
+
+2012-11-09T15:23:56.326952Z
+9a09ee56ec471eb7913af3067f9e7ad0
+2012-10-28T14:54:05.150397Z
+353
+ljh_0110@163.com
+
+StdAfx.cpp
+file
+
+
+
+
+2012-11-09T15:23:56.342552Z
+38b11784abccd210a8aad02267eed86c
+2012-10-15T14:30:06.527260Z
+341
+daviyang35@gmail.com
+
+Layout
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2012-11-09T15:23:56.358152Z
+1d7b28cea2541190385f1de1c2a6d0ba
+2012-10-03T13:45:16.174540Z
+330
+daviyang35@gmail.com
+

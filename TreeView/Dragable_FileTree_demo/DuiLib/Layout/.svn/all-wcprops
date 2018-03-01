@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/358/trunk/DuiLib/Layout
+END
+UITileLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/321/trunk/DuiLib/Layout/UITileLayout.h
+END
+UIChildLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/356/trunk/DuiLib/Layout/UIChildLayout.cpp
+END
+UITabLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/358/trunk/DuiLib/Layout/UITabLayout.cpp
+END
+UIChildLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/321/trunk/DuiLib/Layout/UIChildLayout.h
+END
+UIHorizontalLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/356/trunk/DuiLib/Layout/UIHorizontalLayout.cpp
+END
+UIVerticalLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/356/trunk/DuiLib/Layout/UIVerticalLayout.cpp
+END
+UITabLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/346/trunk/DuiLib/Layout/UITabLayout.h
+END
+UITileLayout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/356/trunk/DuiLib/Layout/UITileLayout.cpp
+END
+UIHorizontalLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/321/trunk/DuiLib/Layout/UIHorizontalLayout.h
+END
+UIVerticalLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/321/trunk/DuiLib/Layout/UIVerticalLayout.h
+END

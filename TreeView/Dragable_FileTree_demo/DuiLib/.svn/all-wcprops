@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/358/trunk/DuiLib
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/308/trunk/DuiLib/StdAfx.h
+END
+UIlib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/182/trunk/DuiLib/UIlib.cpp
+END
+DuiLib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/353/trunk/DuiLib/DuiLib.vcproj
+END
+UIlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/353/trunk/DuiLib/UIlib.h
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/341/trunk/DuiLib/StdAfx.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/330/trunk/DuiLib/CMakeLists.txt
+END

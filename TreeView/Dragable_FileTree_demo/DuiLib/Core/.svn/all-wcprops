@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/356/trunk/DuiLib/Core
+END
+UIMarkup.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/321/trunk/DuiLib/Core/UIMarkup.h
+END
+UIManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/356/trunk/DuiLib/Core/UIManager.cpp
+END
+UIBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/353/trunk/DuiLib/Core/UIBase.cpp
+END
+UIDlgBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/356/trunk/DuiLib/Core/UIDlgBuilder.cpp
+END
+UIBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/353/trunk/DuiLib/Core/UIBase.h
+END
+UIRender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/321/trunk/DuiLib/Core/UIRender.cpp
+END
+UIManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/353/trunk/DuiLib/Core/UIManager.h
+END
+UIControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/356/trunk/DuiLib/Core/UIControl.cpp
+END
+UIDlgBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/321/trunk/DuiLib/Core/UIDlgBuilder.h
+END
+UIContainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/356/trunk/DuiLib/Core/UIContainer.cpp
+END
+UIRender.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/321/trunk/DuiLib/Core/UIRender.h
+END
+UIControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/353/trunk/DuiLib/Core/UIControl.h
+END
+UIContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/321/trunk/DuiLib/Core/UIContainer.h
+END
+UIDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/356/trunk/DuiLib/Core/UIDefine.h
+END
+UIMarkup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/321/trunk/DuiLib/Core/UIMarkup.cpp
+END

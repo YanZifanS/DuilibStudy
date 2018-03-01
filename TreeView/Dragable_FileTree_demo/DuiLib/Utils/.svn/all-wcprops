@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/353/trunk/DuiLib/Utils
+END
+WinImplBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/353/trunk/DuiLib/Utils/WinImplBase.h
+END
+Utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/348/trunk/DuiLib/Utils/Utils.cpp
+END
+downloadmgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/321/trunk/DuiLib/Utils/downloadmgr.h
+END
+Utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/346/trunk/DuiLib/Utils/Utils.h
+END
+WebBrowserEventHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/347/trunk/DuiLib/Utils/WebBrowserEventHandler.h
+END
+UIDelegate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/321/trunk/DuiLib/Utils/UIDelegate.cpp
+END
+stb_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/321/trunk/DuiLib/Utils/stb_image.c
+END
+WinImplBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/353/trunk/DuiLib/Utils/WinImplBase.cpp
+END
+XUnzip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/321/trunk/DuiLib/Utils/XUnzip.cpp
+END
+UIDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/321/trunk/DuiLib/Utils/UIDelegate.h
+END
