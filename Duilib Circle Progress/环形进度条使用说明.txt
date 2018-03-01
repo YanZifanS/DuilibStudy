@@ -1,0 +1,11 @@
+1.UIDefine.h添加
+#define  DUI_CTR_CIRCLEPROGRESS					 (_T("CircleProgress"))
+2.UIDlgBuilder.cpp添加
+case 14:
+                if( _tcsicmp(pstrClass, DUI_CTR_VERTICALLAYOUT) == 0 )        pControl = new CVerticalLayoutUI;
+                else if( _tcsicmp(pstrClass, DUI_CTR_LISTHEADERITEM) == 0 )   pControl = new CListHeaderItemUI;
+				else if( _tcsicmp(pstrClass, DUI_CTR_CIRCLEPROGRESS) == 0 )   pControl = new CCircleProgressUI;
+                break;
+
+3.skin.xml使用
+ <CircleProgress name="logoLabel" text="logo" float="true" outerRadius="20" innerRadius="10" progressColor="#ff0000ff" progressBgkColor="#ff00ff00" value="10" pos="13,2,0,0" enabled="true" width="45" height="45" bkcolor="#FF800000" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" />
