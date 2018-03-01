@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window size="400,300" >
+	<font id="1" name="楷书" size="30" bold="true"/>
+    <VerticalLayout bkcolor="#FFF00FFF">
+		<VerticalLayout height="50">
+			<Button name="TextBtn" text="duilib按钮" float="true" pos="10,10,100,30" bordersize="1" bkcolor="#FFFFFFFF" borderround="3,3"/>
+			<Button name="closebtn" text="close" float="true" pos="110,10,200,30" bordersize="1" bkcolor="#FFFFFFFF" borderround="3,3"/>
+        </VerticalLayout>
+	</VerticalLayout>
+</Window>
