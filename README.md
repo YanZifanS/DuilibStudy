@@ -8,3 +8,5 @@ duilib 环形进度条以及使用
 duilib 中 tree 控件的使用
 #### 4.ListView
 duilib 中List控件的使用
+#### 5.Manual
+duilib 用户手册
